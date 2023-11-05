@@ -1,0 +1,4 @@
+[
+    "[Phishing]: amazon-services-com.gq: 0.780",
+    "[Not Phishing]: apple.com: 0.004"
+]
